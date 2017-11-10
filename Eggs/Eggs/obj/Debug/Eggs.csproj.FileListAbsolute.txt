@@ -1,0 +1,6 @@
+c:\users\mochibot\documents\visual studio 2017\Projects\Eggs\Eggs\bin\Debug\Eggs.exe.config
+c:\users\mochibot\documents\visual studio 2017\Projects\Eggs\Eggs\bin\Debug\Eggs.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\Eggs\Eggs\bin\Debug\Eggs.pdb
+c:\users\mochibot\documents\visual studio 2017\Projects\Eggs\Eggs\obj\Debug\Eggs.csprojResolveAssemblyReference.cache
+c:\users\mochibot\documents\visual studio 2017\Projects\Eggs\Eggs\obj\Debug\Eggs.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\Eggs\Eggs\obj\Debug\Eggs.pdb
